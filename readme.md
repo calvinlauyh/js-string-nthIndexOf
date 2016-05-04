@@ -1,5 +1,5 @@
 # String.nthIndexOf
-This code snippet add function nthIndexOf() to String object and provides the ability to search for the nth occurrence of a substring in a string. It also support both forward and backward serach by providing positive or negative nthIndex. If you do not want to pollute the String.prototype, you can also use the nthIndexOf() version instead
+This code snippet add function nthIndexOf() to String object and provides the ability to search for the nth occurrence of a substring in a string. It supports both forward and backward serach by providing positive or negative nthIndex. If you do not want to pollute the String.prototype, you can also use the nthIndexOf() version instead
 
 ## Function Signature
 There are two versions of nthIndexOf available, the first one is appended to String Object can can be invoked using ```("foo").nthIndexOf("o", 2);```. The second one is defined in global environment can can be invoked using ```nthIndexOf("foo", "o", 2);```  
