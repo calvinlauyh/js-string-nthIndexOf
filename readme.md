@@ -4,7 +4,7 @@ This code snippet add function nthIndexOf() to String object and provides the ab
 ## Function Signature
 There are two versions of nthIndexOf available, the first one is appended to String Object can can be invoked using ```("foo").nthIndexOf("o", 2);```. The second one is defined in global environment can can be invoked using ```nthIndexOf("foo", "o", 2);```  
   
-String.prototype.nthIndexOf(searchValue, nthIndex, start)
+### String.prototype.nthIndexOf(searchValue, nthIndex, start)
   
 | Argument    | Data Type | Description                                            |
 |-------------|-----------|--------------------------------------------------------|
@@ -12,7 +12,8 @@ String.prototype.nthIndexOf(searchValue, nthIndex, start)
 | nthIndex    | number    | Which occurrence to search for. If index is a negative number, it will perform a backward search. All index starts at 1                   |
 | start       | number    | (Optional) At which position to start                  |
   
-nthIndexOf(string, searchValue, nthIndex, start)
+  
+### nthIndexOf(string, searchValue, nthIndex, start)
   
 | Argument    | Data Type | Description                                            |
 |-------------|-----------|--------------------------------------------------------|
