@@ -46,9 +46,9 @@
  * The function returns the position of the nth occurrence of a search 
  * value in a string.
  *
- * @param {string} str          The string to search for
+ * @param {string} str          The string to search with
  * @param {string} searchValue  The value to search for
- * @param {number} nthIndex     Which occurence to search for, index
+ * @param {number} nthIndex     Which occurrence to search for, index
  *                              starts with st 1
  * @param {number} [start]      (Optional) At which position to start
  * @return {number}             Position where the search value of nth 
