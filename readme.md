@@ -15,7 +15,7 @@ nthIndexOf(string, searchValue, nthIndex, start)
   
 | Argument    | Data Type | Description                                         |
 |-------------|-----------|-----------------------------------------------------|
-| string      | string    | The value to search with                            |
+| string      | string    | The string to search with                           |
 | searchValue | string    | The value to search for                             |
 | nthIndex    | number    | Which occurrence to search for, index starts with 1 |
 | start       | number    | (Optional) At which position to start               |
