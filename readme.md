@@ -3,6 +3,7 @@ This code snippet add function nthIndexOf() to String object and provides the ab
 
 ## Function Signature
 There are two versions of nthIndexOf available, the first one is appended to String Object can can be invoked using ```("foo").nthIndexOf("o", 2);```. The second one is defined in global environment can can be invoked using ```nthIndexOf("foo", "o", 2);```  
+  
 String.prototype.nthIndexOf(searchValue, nthIndex, start)
   
 | Argument    | Data Type | Description                                            |
