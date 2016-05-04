@@ -52,7 +52,7 @@ Returns position where the search value of nth occurrence appears, -1 if it does
   
 ## History
 * 5 Apr, 2016. Version 1.0.1
-  * Support both forward and backward seartch
+  * Support both forward and backward search
 * 5 Apr, 2016. Version 1.0.0
   * First published
   
