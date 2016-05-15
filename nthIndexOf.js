@@ -4,9 +4,9 @@
  * Search for the nth occurrence of a substring in a string. Support both 
  * forward and backward searching
  *
- * Copyright (c) 2016 Lau Yu Hei
+ * Copyright (c) 2016 Yu H.
  * 
- * @author Lau Yu Hei
+ * @author Yu H.
  * @version 1.0.1
  * @license The MIT License (MIT)
  * https://opensource.org/licenses/MIT
