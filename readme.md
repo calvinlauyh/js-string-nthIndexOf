@@ -57,5 +57,5 @@ Returns position where the search value of nth occurrence appears, -1 if it does
   * First published
   
 ## License
-Copyright (c) Lau Yu Hei  
+Copyright (c) Yu H. 
 Published under The MIT License (MIT)
